@@ -1,4 +1,4 @@
-# method_dushyantk
+# methods_dushyantk
 
 ## Instructions:
 
